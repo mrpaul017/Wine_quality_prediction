@@ -24,7 +24,7 @@ I utilized a dataset of red wine from Kaggle to construct various classification
 
 - Importing the dataset
 - Analyze and clean the data
-- Understanding the Dataset
+- Exploratory Data Analysis 
 - Preparing the Data for modelling
 - Applying various models
-- Choosing the right and best performing model
+- Choosing the right and best-performing model
