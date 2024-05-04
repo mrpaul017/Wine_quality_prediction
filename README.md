@@ -1,2 +1,6 @@
-![pexels-mariapop-342971](https://github.com/mrpaul017/Wine_quality_prediction/assets/145193843/8e351c0c-98d5-46a0-887d-229d17781a68)
-I used a dataset of red wine from Kaggle to build varieties of Classification models and to choose best performing model among them. In this dataset each kind of wine is given a quality score between 0 to 10 according to their qualities. 
+![pexels-mariapop-342971](https://github.com/mrpaul017/Wine_quality_prediction/assets/145193843/8e351c0c-98d5-46a0-887d-229d17781a68) 
+I utilized a dataset of red wine from Kaggle to construct various classification models and determine the best-performing model among them. The dataset assigns a quality score ranging from 0 to 10 for each type of wine, based on its quality.
+The independent variables by which the prediction of best quality of wine is made are :
+[ad.txt](https://github.com/mrpaul017/Wine_quality_prediction/files/15208178/ad.txt)
+Steps in this project :
+[c.txt](https://github.com/mrpaul017/Wine_quality_prediction/files/15208188/c.txt)
